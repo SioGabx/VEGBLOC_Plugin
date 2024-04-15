@@ -1,3 +1,3 @@
-AutoCAD plugin for my work :
+### Moved to https://github.com/SioGabx/SioForgeCAD
 
-Create vegetable block to make plantations plan
+VEGBLOC is a plugin that allows you to create AutoCAD blocks to create planting plans where each plant is placed.
